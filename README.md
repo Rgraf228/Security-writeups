@@ -13,3 +13,4 @@ on how a SOC analyst would document and close out a finding.
 - [CVE-2026-27606 — Rollup Path Traversal RCE](./CVE-2026-27606-rollup-investigation.md)
 - [CVE-2015-7985 — Valve Steam Weak Install Folder Permissions](./CVE-2015-7985-steam-investigation.md)
 - [CVE-2019-14743 — Valve Steam Client Registry Permission (Disputed)](./CVE-2019-14743-steam-investigation.md)
+- [MITRE ATT&CK T1078 — Windows Logon Success Alert Triage](./mitre-t1078-windows-logon-investigation.md)
