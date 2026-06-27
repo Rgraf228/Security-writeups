@@ -15,3 +15,4 @@ on how a SOC analyst would document and close out a finding.
 - [CVE-2019-14743 — Valve Steam Client Registry Permission (Disputed)](./CVE-2019-14743-steam-investigation.md)
 - [MITRE ATT&CK T1078 — Windows Logon Success Alert Triage](./mitre-t1078-windows-logon-investigation.md)
 - [CVE-2024-52006 — Git Credential Helper Carriage Return Confusion](./CVE-2024-52006-git-investigation.md)
+- [CVE-2024-52005 — Git Sideband Channel ANSI Escape Sequence Injection](./CVE-2024-52005-git-investigation.md)
