@@ -19,3 +19,4 @@ on how a SOC analyst would document and close out a finding.
 - [CVE-2015-4016 — Valve Steam Remote Denial of Service](./CVE-2015-4016-steam-investigation.md)
 - [CVE-2026-53571 — Vite server.fs.deny Bypass via Windows Alternate Paths](./CVE-2026-53571-vite-server-fs-deny-bypass.md)
 - [CVE-2026-39364 — Vite server.fs.deny Bypass via Query Parameters](./CVE-2026-39364-vite-query-bypass.md)
+- [CVE-2026-39363 — Vite Arbitrary File Read via WebSocket fetchModule Bypass](./CVE-2026-39363-vite-websocket-bypass.md)
