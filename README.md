@@ -20,3 +20,6 @@ on how a SOC analyst would document and close out a finding.
 - [CVE-2026-53571 — Vite server.fs.deny Bypass via Windows Alternate Paths](./CVE-2026-53571-vite-server-fs-deny-bypass.md)
 - [CVE-2026-39364 — Vite server.fs.deny Bypass via Query Parameters](./CVE-2026-39364-vite-query-bypass.md)
 - [CVE-2026-39363 — Vite Arbitrary File Read via WebSocket fetchModule Bypass](./CVE-2026-39363-vite-websocket-bypass.md)
+- [CVE-2026-33671 — Picomatch ReDoS via Extglob Quantifiers](./CVE-2026-33671-picomatch-redos.md)
+- [node-tar CVE Cluster — Hardlink/Symlink Path Traversal & Arbitrary File Write](./node-tar-cve-cluster-investigation.md)
+- [npm Audit Batch Remediation — brace-expansion, glob, minimatch, yaml](./npm-audit-batch-remediation-2026-07-13.md)
