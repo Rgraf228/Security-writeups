@@ -24,3 +24,4 @@ on how a SOC analyst would document and close out a finding.
 - [node-tar CVE Cluster — Hardlink/Symlink Path Traversal & Arbitrary File Write](./node-tar-cve-cluster-investigation.md)
 - [npm Audit Batch Remediation — brace-expansion, glob, minimatch, yaml](./npm-audit-batch-remediation-2026-07-13.md)
 - [CVE-2026-15168 — Wireshark BLF File Parser Information Disclosure](./CVE-2026-15168-wireshark-blf-investigation.md)
+- [CVE-2026-50520 — Visual Studio Code Remote Code Execution via Command Injection](./CVE-2026-50520-vscode-rce-investigation.md)
