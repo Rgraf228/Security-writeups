@@ -42,23 +42,22 @@ These are my most detailed and representative investigations. Each includes full
 
 ## 📂 Full Write-up Index
 
-Below is the complete list of investigations included in this repository:
-
-- CVE-2026-27606 — Rollup Path Traversal RCE  
-- CVE-2015-7985 — Valve Steam Weak Install Folder Permissions  
-- CVE-2019-14743 — Valve Steam Client Registry Permission (Disputed)  
-- MITRE ATT&CK T1078 — Windows Logon Success Alert Triage  
-- CVE-2024-52006 — Git Credential Helper Carriage Return Confusion  
-- CVE-2024-52005 — Git Sideband Channel ANSI Escape Sequence Injection  
-- CVE-2015-4016 — Valve Steam Remote Denial of Service  
-- CVE-2026-53571 — Vite server.fs.deny Bypass via Windows Alternate Paths  
-- CVE-2026-39364 — Vite server.fs.deny Bypass via Query Parameters  
-- CVE-2026-39363 — Vite Arbitrary File Read via WebSocket fetchModule Bypass  
-- CVE-2026-33671 — Picomatch ReDoS via Extglob Quantifiers  
-- node-tar CVE Cluster — Hardlink/Symlink Path Traversal & Arbitrary File Write  
-- npm Audit Batch Remediation — brace-expansion, glob, minimatch, yaml  
-- CVE-2026-15168 — Wireshark BLF File Parser Information Disclosure  
-- CVE-2026-50520 — Visual Studio Code Remote Code Execution via Command Injection  
+- [CVE-2026-27606 — Rollup Path Traversal RCE](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2026-27606)
+- [CVE-2015-7985 — Valve Steam Weak Install Folder Permissions](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2015-7985)
+- [CVE-2019-14743 — Valve Steam Client Registry Permission (Disputed)](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2019-14743)
+- [MITRE ATT&CK T1078 — Windows Logon Success Alert Triage](https://github.com/Rgraf228/Security-writeups/tree/main/T1078-Windows-Logon-Success)
+- [CVE-2024-52006 — Git Credential Helper Carriage Return Confusion](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2024-52006)
+- [CVE-2024-52005 — Git Sideband Channel ANSI Escape Sequence Injection](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2024-52005)
+- [CVE-2015-4016 — Valve Steam Remote Denial of Service](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2015-4016)
+- [CVE-2026-53571 — Vite server.fs.deny Bypass via Windows Alternate Paths](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2026-53571)
+- [CVE-2026-39364 — Vite server.fs.deny Bypass via Query Parameters](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2026-39364)
+- [CVE-2026-39363 — Vite Arbitrary File Read via WebSocket fetchModule Bypass](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2026-39363)
+- [CVE-2026-33671 — Picomatch ReDoS via Extglob Quantifiers](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2026-33671)
+- [node-tar CVE Cluster — Hardlink/Symlink Path Traversal & Arbitrary File Write](https://github.com/Rgraf228/Security-writeups/tree/main/node-tar-CVE-cluster)
+- [npm Audit Batch Remediation — brace-expansion, glob, minimatch, yaml](https://github.com/Rgraf228/Security-writeups/tree/main/npm-audit-batch-remediation)
+- [CVE-2026-15168 — Wireshark BLF File Parser Information Disclosure](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2026-15168)
+- [CVE-2026-50520 — Visual Studio Code Remote Code Execution via Command Injection](https://github.com/Rgraf228/Security-writeups/tree/main/CVE-2026-50520)
+ 
 
 ---
 
