@@ -8,6 +8,13 @@ Each investigation follows a consistent SOC-style workflow:
 These write-ups demonstrate real-world skills in threat detection, vulnerability analysis, log triage, and incident documentation.
 
 ---
+# 🔒 Security Write-ups
+
+This repository contains documented security investigations performed in my home SOC lab...
+
+## 🗺️ Network Architecture Diagram
+![My Home Lab Network](fullnetwork.png)
+
 
 ## 📌 Featured Investigations
 
