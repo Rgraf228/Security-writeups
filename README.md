@@ -15,7 +15,6 @@ This repository contains documented security investigations performed in my home
 ## 🗺️ Network Architecture Diagram
 ![My Home Lab Network](fullnetwork.png)
 
-
 ## 📌 Featured Investigations
 
 These are my most detailed and representative investigations. Each includes full documentation inside its folder.
